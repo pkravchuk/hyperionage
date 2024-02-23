@@ -8,7 +8,7 @@ packages:
 - git: https://github.com/davidsd/distributed-process-async.git
   commit: bab06c5989db8dc32765c9b6c1795c020fa0ecf9
 - git: https://gitlab.com/pkravchuk/binaryhash.git
-  commit: 2f65a2d472fccbd90636783c8a85ef553f8f9ea8
+  commit: 8314578c23e887a16b859c3ff0937b02ec201377 #2f65a2d472fccbd90636783c8a85ef553f8f9ea8
 - git: https://gitlab.com/davidsd/hyperion-static.git
   commit: 26d55bfa4c6019558ff05b97b29bff9990db31ca
 - git: https://gitlab.com/davidsd/rusage.git
