@@ -1,0 +1,7 @@
+resolver: nightly-2023-05-02  # Base resolver
+name: hyp-1.0
+packages:
+  - name: binaryhash
+    location:
+      git: https://gitlab.com/pkravchuk/binaryhash.git
+      commit: 2f65a2d472fccbd90636783c8a85ef553f8f9ea8
