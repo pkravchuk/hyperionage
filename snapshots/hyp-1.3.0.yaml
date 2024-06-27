@@ -20,7 +20,7 @@ packages:
 - git: https://github.com/davidsd/rounded.git
   commit: 1dece6c529aa355d9e1a91c923b79d5a9772b0ff
 - git: https://gitlab.com/davidsd/hyperion-bootstrap.git
-  commit: cd6c01a766f21aa7ba78c2429d107aede07d8dc1
+  commit: 7fe99f89587f13014c90f7754b55e1f250213582
 - git: https://gitlab.com/davidsd/hyperion-util.git
   commit: 4c4ed382d8fce5e318d15bd45184b3e2d8c1ff96
 - git: https://gitlab.com/pkravchuk/blocks-4d-haskell.git
