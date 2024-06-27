@@ -1,0 +1,48 @@
+resolver: nightly-2024-03-29  # Base resolver
+name: hyp-1.3.1
+packages:
+- hgmp-0.1.2.1
+- distributed-process-async-0.2.7
+- git: https://github.com/davidsd/long-double.git
+  commit: 86c1012cdeddefad188a83b2a487155c9075d4e6
+- git: https://github.com/davidsd/matrix-static.git
+  commit: fdf02eab4b01391f7f530c4a22b366b9d2c8de41
+- git: https://gitlab.com/pkravchuk/binaryhash.git
+  commit: 2f65a2d472fccbd90636783c8a85ef553f8f9ea8
+- git: https://gitlab.com/davidsd/hyperion-static.git
+  commit: 26d55bfa4c6019558ff05b97b29bff9990db31ca
+- git: https://github.com/davidsd/hyperion.git
+  commit: bcb74e6067fbd900b2c8cd1e5cbed827f09b798e 
+- git: https://gitlab.com/davidsd/quadratic-net.git
+  commit: c5bf9f242e41315a187e16270d40909619292537
+- git: https://gitlab.com/davidsd/sdpb-haskell.git
+  commit: 511d4a43f0495fd1c7f1155b50d34b90a8913d85
+- git: https://github.com/davidsd/rounded.git
+  commit: 1dece6c529aa355d9e1a91c923b79d5a9772b0ff
+- git: https://gitlab.com/davidsd/hyperion-bootstrap.git
+  commit: 7fe99f89587f13014c90f7754b55e1f250213582
+- git: https://gitlab.com/davidsd/hyperion-util.git
+  commit: 4c4ed382d8fce5e318d15bd45184b3e2d8c1ff96
+- git: https://gitlab.com/pkravchuk/blocks-4d-haskell.git
+  commit: 7f98f500360183c36f15eda960d61b4adc51af31
+- git: https://gitlab.com/davidsd/eigen-rounded.git
+  commit: 55a06a3d077ca6861fca92ac1b430ce73e1ce0f2
+- git: https://gitlab.com/davidsd/bootstrap-math.git
+  commit: 52760872dbf3b250c28a0fd5d90a6d4635c2bb8f
+- git: https://gitlab.com/davidsd/bootstrap-build.git
+  commit: 8e61f7077d2c6bcfeb74611c1fdc718fbbeea41c
+- git: https://gitlab.com/davidsd/bootstrap-bounds.git
+  commit: a2905c9646880a406bc7905b76c696f889e4bc2c
+- git: https://gitlab.com/davidsd/blocks-core.git
+  commit: 5080c1f87866fcbe45cb000c3e78431655ebdc21
+- git: https://gitlab.com/davidsd/scalar-blocks.git
+  commit: 195bc968a2b0a064a1372049eaae6d47462d1863
+- git: https://gitlab.com/davidsd/blocks-3d.git
+  commit: 48deddb3704c7007cdfa81e789a1a5c131a63562
+- git: https://gitlab.com/davidsd/rusage.git
+  commit: ca52101db66e736a01f4de1b4c32bd3f13fca048
+- git: https://gitlab.com/davidsd/dynamical-sdp.git
+  commit: 9fbcccc086c1f6a2eded80a07788ea8b9d1cf663
+- git: https://gitlab.com/pkravchuk/bootstrap-params.git
+  commit: ead245eaaedd039c4462b324ae883babfc99f9b4
+
