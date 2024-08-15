@@ -1,5 +1,5 @@
 resolver: nightly-2024-03-29  # Base resolver
-name: hyp-1.3.21
+name: hyp-1.3.22
 packages:
 - hgmp-0.1.2.1
 - distributed-process-async-0.2.7
@@ -38,7 +38,7 @@ packages:
 - git: https://gitlab.com/davidsd/scalar-blocks.git
   commit: 195bc968a2b0a064a1372049eaae6d47462d1863
 - git: https://gitlab.com/davidsd/blocks-3d.git
-  commit: e0b593b32a3820cd1f4997847564f9c241a46e88
+  commit: 059a599e3071e4dc599efdff5fffdec4060cd59d
 - git: https://gitlab.com/davidsd/rusage.git
   commit: ca52101db66e736a01f4de1b4c32bd3f13fca048
 - git: https://gitlab.com/davidsd/dynamical-sdp.git
